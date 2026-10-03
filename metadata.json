@@ -1,0 +1,6 @@
+{
+  "name": "CodeHiveSolution – Software Development & Digital Solutions",
+  "description": "CodeHiveSolution builds high-performance websites, mobile apps, custom software, APIs, and cloud solutions to transform ideas into scalable digital products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
